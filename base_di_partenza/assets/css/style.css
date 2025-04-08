@@ -411,7 +411,7 @@ footer a {
   position: fixed;
   padding: 12px 12px;
   bottom: 20px;
-  right: 20px;
+  right: 5px;
   background-color: rgba(185, 178, 178, 0.674);
   color: #a02571;
   border: none;
@@ -424,7 +424,7 @@ footer a {
   position: fixed;
   padding: 12px 12px;
   bottom: 70px;
-  right: 20px;
+  right: 5px;
   background-color: rgba(185, 178, 178, 0.674);
   color: #00a0c6;
   border: none;
@@ -436,7 +436,7 @@ footer a {
   position: fixed;
   padding: 12px 12px;
   bottom: 120px;
-  right: 20px;
+  right: 5px;
   background-color: rgba(185, 178, 178, 0.674);
   color: #00a0c6;
   border: none;
